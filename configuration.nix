@@ -72,6 +72,7 @@
     wget
     docker
     git
+    htop
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
