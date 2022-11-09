@@ -73,6 +73,7 @@
     docker
     git
     iperf
+    speedtest-cli
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
